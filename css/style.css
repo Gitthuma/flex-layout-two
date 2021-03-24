@@ -1,5 +1,6 @@
 ul {
   list-style-type: none; /*Removes list bullets*/
+  display: flex; /*Adds display flex to align the list horizontally*/
 }
 
 li {
