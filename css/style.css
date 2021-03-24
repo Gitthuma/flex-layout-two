@@ -5,4 +5,5 @@ ul {
 li {
   background-color: #4d7298; /*Adds background color to list items*/
   border: 2px solid #77a6b6; /*Adds border to list items*/
+  border-radius: 0.5em; /*Adds border radius to list items*/
 }
